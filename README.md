@@ -1,2 +1,2 @@
-# simple Bank system 
+# Simple Bank System 
 the sparks foundation intern 
